@@ -9,7 +9,7 @@ Get it up and running on your local machine:
 		<br>
 		cd angular1
 		<br>
-		npm init
+		npm install
 		<br>
 		nodemon
 		<br>
